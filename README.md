@@ -1,2 +1,2 @@
 # Proyecto0-ED
-Proyecto #0 del curso de Estructuras de Datos
+Repositorio movido a https://github.com/mau671/PriorityQueueManager
